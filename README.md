@@ -18,17 +18,17 @@
 
 
 ### My field of competence are :
-<strong>JS :</strong>
+<strong>Javascript :</strong>
  - React.js 
  - Node.js 
  - Angular 2+ 
 
-<strong>CMS & eCommerce :</strong>
+<strong>eCommerce :</strong>
  - Prestashop 
- - Wordpress 
+ - WooComerce
  - Magento 
 
-<strong>Framework  :</strong>
+<strong>Framework :</strong>
  - Symfony
  - Laravel
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...d
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
