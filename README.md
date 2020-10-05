@@ -19,19 +19,20 @@
 
 ### My field of competence are :
 <strong>Javascript / Typescript :</strong>
- - React.js 
+ - React.js / Redux
  - Node.js 
  - Angular 2+ 
 
 <strong>PHP eCommerce :</strong>
- - Prestashop 
- - WooComerce
- - Magento 
+ - Prestashop (v1.6, v1.7)
+ - Magento (v2)
 
 <strong>PHP Framework :</strong>
- - Symfony
- - Laravel
+ - Symfony v3, v4, v5
+ - Laravel v5, v6, v7
 
+<strong>Mobile :</strong>
+ - React Native / Redux
 
 <!--
 **MahefaAbel/MahefaAbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
