@@ -33,6 +33,10 @@
 
 <strong>Mobile :</strong>
  - React Native / Redux
+ 
+<strong>DevOps :</strong>
+ - Docker
+ - AWS (S3, EC2, RDS MySQL, IAM)
 
 <!--
 **MahefaAbel/MahefaAbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
