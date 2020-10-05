@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <pre style="background-color:white;">
 888b     d888          888                .d888         
 8888b   d8888          888               d88P"          
@@ -15,6 +16,8 @@
                                       |        
 </pre>
 
+
+### My field of competence are :
 <strong>JS :</strong>
  - React.js 
  - Node.js 
