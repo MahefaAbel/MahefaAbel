@@ -18,17 +18,17 @@
 
 
 ### My field of competence are :
-<strong>Javascript :</strong>
+<strong>Javascript / Typescript :</strong>
  - React.js 
  - Node.js 
  - Angular 2+ 
 
-<strong>eCommerce :</strong>
+<strong>PHP eCommerce :</strong>
  - Prestashop 
  - WooComerce
  - Magento 
 
-<strong>Framework :</strong>
+<strong>PHP Framework :</strong>
  - Symfony
  - Laravel
 
