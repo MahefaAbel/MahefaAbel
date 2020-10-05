@@ -1,5 +1,5 @@
 ### Hi there 👋
-<pre>
+<pre style="background-color:white;">
 888b     d888          888                .d888         
 8888b   d8888          888               d88P"          
 88888b.d88888          888               888            
