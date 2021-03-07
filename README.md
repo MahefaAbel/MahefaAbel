@@ -18,16 +18,13 @@
 </pre>
 
 
-### My field of competence are :
-<strong>Javascript / Typescript :</strong>  React.js / Redux |  Node.js | Angular 2+ 
-
-<strong>PHP eCommerce :</strong> Prestashop (v1.6, v1.7) |  Magento (v2)
-
-<strong>PHP Framework :</strong>  Symfony (v3, v4, v5)  |  Laravel (v5, v6, v7)
-
-<strong>Mobile :</strong> React Native / Redux
- 
-<strong>DevOps :</strong>  Docker |  AWS (S3, EC2, RDS MySQL, IAM)
+### About my skills :
+**Javascript / Typescript :**  React.js / Redux |  Node.js | Angular 2+ 
+**PHP eCommerce :** Prestashop (v1.6, v1.7) |  Magento (v2)
+**PHP Framework :**  Symfony (v3, v4, v5)  |  Laravel (v5, v6, v7)
+**Java :** SpringBoot (API SOAP / RESTful)
+**Mobile :** React Native / Redux | Flutter
+ **DevOps :**  Docker |  AWS (S3, EC2, RDS MySQL, IAM)
  
  
  <strong> Get in touch 📫 : </strong>
