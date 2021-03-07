@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <pre style="background-color:white;">
@@ -18,30 +19,21 @@
 
 
 ### My field of competence are :
-<strong>Javascript / Typescript :</strong>
- - React.js / Redux
- - Node.js 
- - Angular 2+ 
+<strong>Javascript / Typescript :</strong>  React.js / Redux |  Node.js | Angular 2+ 
 
-<strong>PHP eCommerce :</strong>
- - Prestashop (v1.6, v1.7)
- - Magento (v2)
+<strong>PHP eCommerce :</strong> Prestashop (v1.6, v1.7) |  Magento (v2)
 
-<strong>PHP Framework :</strong>
- - Symfony v3, v4, v5
- - Laravel v5, v6, v7
+<strong>PHP Framework :</strong>  Symfony (v3, v4, v5)  |  Laravel (v5, v6, v7)
 
-<strong>Mobile :</strong>
- - React Native / Redux
+<strong>Mobile :</strong> React Native / Redux
  
-<strong>DevOps :</strong>
- - Docker
- - AWS (S3, EC2, RDS MySQL, IAM)
+<strong>DevOps :</strong>  Docker |  AWS (S3, EC2, RDS MySQL, IAM)
  
  
- <strong> 📫 How to reach me: </strong>
+ <strong> Get in touch 📫 : </strong>
 - Email : abelmahefa@gmail.com
--  Skype : mahefa.ram
+- Skype : mahefa.ram
+- Web site : [www.mahefa.pro](https://www.mahefa.pro)
 
 
 <!--
