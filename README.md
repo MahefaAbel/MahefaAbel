@@ -19,11 +19,11 @@
 
 
 ### About my skills :
-**Javascript / Typescript :**  React.js / Redux |  Node.js | Angular 2+ 
-**PHP eCommerce :** Prestashop (v1.6, v1.7) |  Magento (v2)
-**PHP Framework :**  Symfony (v3, v4, v5)  |  Laravel (v5, v6, v7)
-**Java :** SpringBoot (API SOAP / RESTful)
-**Mobile :** React Native / Redux | Flutter
+**Javascript / Typescript :**  React.js / Redux |  Node.js | Angular 2+  \
+**PHP eCommerce :** Prestashop (v1.6, v1.7) |  Magento (v2) \
+**PHP Framework :**  Symfony (v3, v4, v5)  |  Laravel (v5, v6, v7) \
+**Java :** SpringBoot (API SOAP / RESTful) \
+**Mobile :** React Native / Redux | Flutter \
  **DevOps :**  Docker |  AWS (S3, EC2, RDS MySQL, IAM)
  
  
