@@ -26,6 +26,7 @@
 |**Java**|SpringBoot (API SOAP / RESTful)|
 |**Mobile**|React Native / Redux, Flutter|
 |**DevOps**|Docker, AWS (S3, EC2, RDS MySQL, IAM)|
+|**Architectures**|SOA, Microservce|
  
 **Get in touch 📫 :** 
 - *Email :* abelmahefa@gmail.com
