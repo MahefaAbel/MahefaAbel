@@ -48,3 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MahefaAbel&margin-h=15&margin-w=15)]([https://github.com/tsirysndr](https://github.com/MahefaAbel))
